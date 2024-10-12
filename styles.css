@@ -31,7 +31,7 @@ ul#big__screen__list li {
 }
 
 li#qrates_icon {
-  background-image: url(../assets/qrates-logo.svg);
+  background-image: url(./assets/qrates-logo.svg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 27px;
@@ -41,7 +41,7 @@ li#qrates_icon {
 }
 
 li#search_icon {
-  background-image: url(../assets/search.png);
+  background-image: url(./assets/search.png);
   background-position: 50% 50%;
   background-size: cover;
   width: 25px;
@@ -49,7 +49,7 @@ li#search_icon {
 }
 
 li#shopping_icon {
-  background-image: url(../assets/shopping.png);
+  background-image: url(./assets/shopping.png);
   background-position: 50% 50%;
   background-size: cover;
   width: 25px;
@@ -114,7 +114,7 @@ h1#vinyl__header span::after {
   display: block;
   position: absolute;
   top: 105%;
-  background-image: url(../assets/top-current.png);
+  background-image: url(./assets/top-current.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 7em;
@@ -130,7 +130,7 @@ p#full__service__para {
 }
 
 div#man__bring__div {
-  background-image: url(../assets/man_bring_records.png);
+  background-image: url(./assets/man_bring_records.png);
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -143,7 +143,7 @@ div#man__bring__div {
 }
 
 div#artist__waves__div {
-  background-image: url(../assets/artist_waves_two.png);
+  background-image: url(./assets/artist_waves_two.png);
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -157,7 +157,7 @@ div#artist__waves__div {
 }
 
 div#paid__to__div {
-  background-image: url(../assets/paid_to.png);
+  background-image: url(./assets/paid_to.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 26vw;
@@ -198,7 +198,7 @@ div#yellow__div {
 }
 
 div#crowdfunding__img__div {
-  background-image: url(../assets/crowdfunding.png);
+  background-image: url(./assets/crowdfunding.png);
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -257,7 +257,7 @@ div#gray__div {
 }
 
 div#press__sell__div {
-  background-image: url(../assets/press_sell.png);
+  background-image: url(./assets/press_sell.png);
   background-size: cover;
   background-repeat: no-repeat;
   width: 70vw;
@@ -384,7 +384,7 @@ div#learn3__div {
 }
 
 div#our__services__image__div {
-  background-image: url(../assets/our_services.jpg);
+  background-image: url(./assets/our_services.jpg);
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -440,7 +440,7 @@ div#black__section__four__div {
 }
 
 div#store__logo__img__div {
-  background-image: url(../assets/store_logo.png);
+  background-image: url(./assets/store_logo.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 82vw;
@@ -483,7 +483,7 @@ div#pale__violet__div {
 }
 
 div#support__img__div {
-  background-image: url(../assets/support.jpg);
+  background-image: url(./assets/support.jpg);
   background-size: cover;
   background-position: 50% 50%;
   border: 2px solid black;
@@ -576,49 +576,49 @@ div#section__five__gridbox {
 }
 
 div#dec__image__div {
-  background-image: url(../assets/dec.jpg);
+  background-image: url(./assets/dec.jpg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid black;
 }
 
 div#twenty__four__image__div {
-  background-image: url(../assets/24b.jpg);
+  background-image: url(./assets/24b.jpg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid black;
 }
 
 div#dae__image__div {
-  background-image: url(../assets/dae.jpg);
+  background-image: url(./assets/dae.jpg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid black;
 }
 
 div#eed__image__div {
-  background-image: url(../assets/eed.jpg);
+  background-image: url(./assets/eed.jpg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid black;
 }
 
 div#b5__image__div {
-  background-image: url(../assets/b5.JPG);
+  background-image: url(./assets/b5.JPG);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid black;
 }
 
 div#abc__image__div {
-  background-image: url(../assets/abc.JPG);
+  background-image: url(./assets/abc.JPG);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid black;
 }
 
 div#bd__image__div {
-  background-image: url(../assets/bd.jpg);
+  background-image: url(./assets/bd.jpg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid black;
@@ -667,7 +667,7 @@ div#section__five__yellow__div {
 }
 
 div#artist__sol__image__div {
-  background-image: url(../assets/artist_sol.jpg);
+  background-image: url(./assets/artist_sol.jpg);
   background-position: 50% 50%;
   background-size: cover;
   width: 90vw;
@@ -713,7 +713,7 @@ div#orange__div {
 }
 
 div#artist__manson__image__div {
-  background-image: url(../assets/artist_mason.jpg);
+  background-image: url(./assets/artist_mason.jpg);
   background-position: 50% 50%;
   background-size: cover;
   width: 90vw;
@@ -789,7 +789,7 @@ h1#make__it__header span::after {
   position: absolute;
   top: 92%;
   left: 40%;
-  background-image: url(../assets/about-current-4.png);
+  background-image: url(./assets/about-current-4.png);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
@@ -848,7 +848,7 @@ div#qrates__footer__icon__container {
 }
 
 div#footer__qrates__icon {
-  background-image: url(../assets/qrates-logo-footer.svg);
+  background-image: url(./assets/qrates-logo-footer.svg);
   background-size: cover;
   width: 80px;
   height: 80px;
